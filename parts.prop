@@ -1,0 +1,9 @@
+# XiaomiParts
+touchboost.support=1
+cpuboost.support=1
+gpuboost.support=1
+tcp.support=1
+lkm.support=1
+cpucore.support=1
+spectrum.support=1
+persist.spectrum.kernel=NexusKernel-Old-Lavender-Eas-V2-g0002cbde4369
